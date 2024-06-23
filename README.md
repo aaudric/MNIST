@@ -1,5 +1,5 @@
 
-# MNIST Classification
+# MNIST Classification 🔢
 
 This project demonstrates the use of a Convolutional Neural Network (CNN) to classify handwritten digits from the MNIST dataset.
 
